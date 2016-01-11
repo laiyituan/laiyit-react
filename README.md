@@ -1,2 +1,0 @@
-# laiyit-react
-react

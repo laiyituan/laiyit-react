@@ -6,10 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Howard Yeh",
+  "author": "laiyituan",
   "license": "MIT",
   "dependencies": {
-    "normalize.css": "^3.0.3"
+    "normalize.css": "^3.0.3",
+    "perfect-scrollbar": "^0.6.8"
   },
   "devDependencies": {
     "browser-sync": "^2.9.3",

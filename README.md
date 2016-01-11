@@ -1,7 +1,7 @@
 Download the starter kit for the `buyshoes` project:
 
 ```
-git clone https://github.com/hayeah/sikeio-buyshoes-startkit.git buyshoes
+git clone https://github.com/laiyituan/laiyit-react.git
 ```
 
 After you've cloned the project, run `npm install` to download the project dependencies:
